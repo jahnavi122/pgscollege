@@ -31,3 +31,6 @@ ul li{
     display:inline;
     padding-right: 15px;
 }
+ol{
+    list-style: none;
+}
