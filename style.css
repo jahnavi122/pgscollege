@@ -1,0 +1,33 @@
+h1{
+    color:crimson
+}
+h2{
+    color:darkmagenta
+}
+h3{
+    color:dodgerblue
+}
+#box{ 
+    width:800px;
+     background:white;
+    margin: 70px auto;
+    padding:20px;
+     }
+#clg{
+    width:100%;
+    border:1.2px solid indianred;
+}
+body{
+    background: #119DA4;
+}
+ul{
+    list-style: none;
+    margin=0px;
+    padding=0px;
+    background: #f8f8f8;
+    border:0.7px solid silver;
+}
+ul li{
+    display:inline;
+    padding-right: 15px;
+}
